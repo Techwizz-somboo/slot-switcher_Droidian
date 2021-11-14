@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Boot
+Name=Switch My Slot
+Icon=/usr/share/icons/switch-my-slot/switch-my-slot.png
 Exec=/usr/bin/change-slot
 Terminal=false
 X-MultipleArgs=false
